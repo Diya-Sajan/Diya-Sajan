@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working om 100 days of code
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Diya-Sajan)](https://git.io/streak-stats)
 <!--
 **Diya-Sajan/Diya-Sajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
