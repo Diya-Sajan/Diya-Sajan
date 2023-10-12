@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working om 100 days of code
+🔭 I’m currently working on 100 days of code
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Diya-Sajan)](https://git.io/streak-stats)
 <!--
