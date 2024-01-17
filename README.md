@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 -->
 ### Hi there 👋
-🔭 I’m currently working om 100 days of code
+🔭 I’m currently working om 200 days of code
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Diya-Sajan)](https://git.io/streak-stats)
 <!--
